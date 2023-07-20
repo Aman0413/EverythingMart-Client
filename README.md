@@ -2,6 +2,8 @@
 
 The EverythingMart Order Management System is a web-based application that allows the shopkeeper to manage and track customer orders efficiently. The system utilizes MongoDB to store order details, including order ID, customer information, date, product, quantity, and unit price. With this system, the shopkeeper can streamline order processing, enhance customer tracking, and improve invoice management for a more organized and efficient business operation.
 
+### Server Repo [Visit repository Website](https://github.com/Aman0413/EverythingMart-Server)
+
 ## Features
 
 1. **CSV File Upload:** The shopkeeper can upload a CSV file containing order details through the dashboard. The system will read the file and store the data in a MongoDB database, ensuring easy access and management of orders.
